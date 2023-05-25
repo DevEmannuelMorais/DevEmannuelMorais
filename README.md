@@ -6,7 +6,8 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmannuelMorais&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 <a href="https://www.github.com/devemannuelmorais" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/devemannuelmorais?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevEmannuelMorais&theme=gotham)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevEmannuelMorais&theme=github-compact)
+
 <a href="https://github.com/devemannuelmorais" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=devemannuelmorais&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
 ### Socials
