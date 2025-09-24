@@ -13,11 +13,12 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About Me </b>
 
-💻 Full Stack Developer currently working at **Accenture**  
+💻 Full Stack Developer with solid experience in **Java, Spring Boot, Java EE, Ruby on Rails, Angular, Node.js, React, React Native, and PostgreSQL**  
 🌍 Based in Fortaleza, Brazil  
-📚 Background in **Analysis and Systems Development**  
-⚡ Experienced in both **legacy systems (Java EE, Struts, Rails)** and **modern solutions (Spring Boot, REST APIs, Angular, Flutter)**  
-🚀 Passionate about creating **efficient, scalable and user-focused applications**
+🎓 Graduating in **Analysis and Systems Development**  
+🚀 Currently working as a **Custom Software Engineering Analyst at Accenture**, designing and implementing scalable, high-performance applications for enterprise clients  
+⚡ Skilled in bridging **legacy technologies** with **modern frameworks**, ensuring smooth system evolution and business continuity  
+🌟 Passionate about building **clean, efficient, and user-focused solutions**, with a strong commitment to collaboration, best practices, and continuous learning  
 
 <br>
 
