@@ -1,91 +1,124 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Emannuel+Morais;Full+Stack+Developer+at+Accenture;Based+in+Fortaleza,+Brazil;Passionate+about+Building+Scalable+Applications;Welcome!+:%29)](https://git.io/typing-svg)
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> Socials
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emannuel-morais-1b74231bb/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emannuel_mrs/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevEmannuelMorais)
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About Me </b>
-
-💻 Full Stack Developer with solid experience in **Java, Spring Boot, Java EE, Ruby on Rails, Angular, Node.js, React, React Native, and PostgreSQL**  
-🌍 Based in Fortaleza, Brazil  
-🎓 Graduating in **Analysis and Systems Development**  
-🚀 Currently working as a **Custom Software Engineering Analyst at Accenture**, designing and implementing scalable, high-performance applications for enterprise clients  
-⚡ Skilled in bridging **legacy technologies** with **modern frameworks**, ensuring smooth system evolution and business continuity  
-🌟 Passionate about building **clean, efficient, and user-focused solutions**, with a strong commitment to collaboration, best practices, and continuous learning  
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Tech Stack </b>
-<br>
-
-<p align="center">
-
-- **Programming Languages**  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-<br>
-
-- **Frameworks & Libraries**  
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-  ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-
-<br>
-
-- **Tools & Platforms**  
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-  ![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-<br>
-
-- **Databases**  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</p>
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevEmannuelMorais&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Emannuel Morais github stats" /> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=900&color=00BFBF&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Emannuel+Morais;Full+Stack+Developer+at+Accenture;Java+%7C+Spring+Boot+%7C+Node.js+%7C+Angular+%7C+React;Building+scalable+and+reliable+applications;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmannuelMorais&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-
-<a href="https://www.github.com/devemannuelmorais" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/devemannuelmorais?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
-  
 </div>
 
 <br>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevEmannuelMorais&theme=github-compact)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00bfbf?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/emannuel-morais-1b74231bb/)
+[![GitHub](https://img.shields.io/badge/GitHub-00bfbf?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/DevEmannuelMorais)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00bfbf?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://devemannuelmorais.github.io/portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-00bfbf?style=for-the-badge&logo=instagram&logoColor=0D1117)](https://www.instagram.com/emannuel_mrs/)
+
+</div>
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+---
+
+## 👨‍💻 About Me
+
+I am a **Full Stack Developer** based in Fortaleza, Brazil, currently working at **Accenture** as a **Full Stack Developer**.
+
+I have experience in banking and public sector projects, working on the development, maintenance and evolution of **critical systems, APIs, microservices, integrations and web applications**.
+
+My background combines experience with **legacy systems** and **modern technologies**, allowing me to support business continuity while contributing to modernization, scalability and software quality.
+
+- 🔹 Full Stack Developer with strong focus on **Back-End**
+- 🔹 Experience with **Java, Spring Boot, Java EE, Node.js, NestJS, Express, Angular, React and Ruby on Rails**
+- 🔹 Development and maintenance of **REST APIs, SOAP integrations and microservices**
+- 🔹 Experience with **PostgreSQL, Oracle, MySQL, MongoDB and Apache Kafka**
+- 🔹 Familiar with **CI/CD pipelines, Docker, Git, GitHub Actions, GitLab, Jenkins and Argo**
+- 🔹 Experience with automated tests using **Jest, JUnit, Mockito and RSpec**
+- 🔹 Focused on clean code, software quality, scalability, collaboration and continuous learning
+
+<br>
+
+---
+
+## 🧠 Tech Stack
+
+### Back-End
+
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00bfbf)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=00bfbf)
+![Java EE](https://img.shields.io/badge/Java_EE-0D1117?style=for-the-badge&logo=openjdk&logoColor=00bfbf)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00bfbf)
+![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=00bfbf)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=00bfbf)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-0D1117?style=for-the-badge&logo=rubyonrails&logoColor=00bfbf)
+![Struts](https://img.shields.io/badge/Struts-0D1117?style=for-the-badge&logoColor=00bfbf)
+![EJB](https://img.shields.io/badge/EJB-0D1117?style=for-the-badge&logoColor=00bfbf)
+![Servlets](https://img.shields.io/badge/Servlets-0D1117?style=for-the-badge&logoColor=00bfbf)
+![Hibernate](https://img.shields.io/badge/Hibernate-0D1117?style=for-the-badge&logo=hibernate&logoColor=00bfbf)
+![MyBatis](https://img.shields.io/badge/MyBatis-0D1117?style=for-the-badge&logoColor=00bfbf)
+
+### Front-End
+
+![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=00bfbf)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00bfbf)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00bfbf)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00bfbf)
+![JSP](https://img.shields.io/badge/JSP-0D1117?style=for-the-badge&logo=openjdk&logoColor=00bfbf)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=00bfbf)
+![Semantic UI](https://img.shields.io/badge/Semantic_UI-0D1117?style=for-the-badge&logo=semanticuireact&logoColor=00bfbf)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=00bfbf)
+![Android Native](https://img.shields.io/badge/Android_Native-0D1117?style=for-the-badge&logo=android&logoColor=00bfbf)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=00bfbf)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00bfbf)
+![Oracle](https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=00bfbf)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00bfbf)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00bfbf)
+
+### DevOps, Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00bfbf)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00bfbf)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=00bfbf)
+![GitLab](https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=00bfbf)
+![Jenkins](https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=00bfbf)
+![Argo](https://img.shields.io/badge/Argo-0D1117?style=for-the-badge&logo=argo&logoColor=00bfbf)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=00bfbf)
+![SVN](https://img.shields.io/badge/SVN-0D1117?style=for-the-badge&logo=subversion&logoColor=00bfbf)
+
+### Testing & Quality
+
+![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=00bfbf)
+![JUnit](https://img.shields.io/badge/JUnit-0D1117?style=for-the-badge&logo=junit5&logoColor=00bfbf)
+![Mockito](https://img.shields.io/badge/Mockito-0D1117?style=for-the-badge&logoColor=00bfbf)
+![RSpec](https://img.shields.io/badge/RSpec-0D1117?style=for-the-badge&logo=ruby&logoColor=00bfbf)
+
+### Reports & Analytics
+
+![JasperReports](https://img.shields.io/badge/JasperReports-0D1117?style=for-the-badge&logoColor=00bfbf)
+![Pentaho](https://img.shields.io/badge/Pentaho-0D1117?style=for-the-badge&logoColor=00bfbf)
+
+<br>
+
+---
+
+## 🚀 What I Work With
+
+```txt
+Back-End       Java, Spring Boot, Java EE, Node.js, NestJS, Express, Ruby on Rails
+Legacy         Struts, Servlets, EJB, JSP, MyBatis, Hibernate
+Front-End      Angular, React, TypeScript, JavaScript, Bootstrap, Semantic UI
+Mobile         React Native, Android Native, Flutter
+Databases      PostgreSQL, Oracle, MySQL, MongoDB
+Architecture   REST APIs, SOAP, Microservices, Event-Driven Architecture
+DevOps         Git, Docker, GitHub Actions, GitLab, Jenkins, Argo, CI/CD, SVN
+Messaging      Apache Kafka
+Testing        Jest, JUnit, Mockito, RSpec
+Reports        JasperReports, Pentaho
+Methods        Scrum, Kanban
