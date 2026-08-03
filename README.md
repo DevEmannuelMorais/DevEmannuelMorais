@@ -132,21 +132,31 @@ Métodos Ágeis  Scrum, Kanban
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevEmannuelMorais&theme=github_dark" alt="Resumo do perfil GitHub"/>
+<img width="100%"
+     src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+     alt="Resumo do perfil GitHub"/>
 
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevEmannuelMorais&theme=github_dark" alt="Repositórios por linguagem"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevEmannuelMorais&theme=github_dark" alt="Linguagens com mais commits"/>
+<img width="49%"
+     src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+     alt="Repositórios por linguagem"/>
+
+<img width="49%"
+     src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+     alt="Linguagens com mais commits"/>
 
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevEmannuelMorais&theme=github_dark" alt="Estatísticas do GitHub"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevEmannuelMorais&theme=github_dark&utcOffset=-3" alt="Horário mais produtivo"/>
+<img width="49%"
+     src="./profile-summary-card-output/github_dark/3-stats.svg"
+     alt="Estatísticas do GitHub"/>
+
+<img width="49%"
+     src="./profile-summary-card-output/github_dark/4-productive-time.svg"
+     alt="Horário mais produtivo"/>
 
 </div>
-
-<br>
 
 ---
 
